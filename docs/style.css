@@ -1,0 +1,17 @@
+@import "bootstrap/scss/variables";
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+*{
+    font-size: 18px;
+    font-family: 'Montserrat';
+}
+
+
+.footer{
+    margin-top: 3vh;
+    background-color: rgb(221, 221, 221);
+    font-size: 14px;
+}
+
+.navbar{
+    background-color: rgb(221, 221, 221);
+}
